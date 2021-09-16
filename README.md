@@ -1,12 +1,12 @@
-# Scroll-Animation
+# Form-Wave-Animation
 
-Training project #6
+Training project #8
 
 There are three steps to configure this app.
 
 ## 1. Clone the app on your local machine with the command below:
 
-> git clone https://github.com/SlavaUnbel/Scroll-Animation.git
+> git clone https://github.com/SlavaUnbel/Form-Wave-Animation.git
 
 ## 2. Install all project dependencies using the command below:
 
